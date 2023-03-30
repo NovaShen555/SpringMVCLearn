@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MVC-04-annoHello:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVC_04_annoHello_war</output-path>
+    <root id="archive" name="MVC-04-annoHello_war.war">
+      <element id="artifact" artifact-name="MVC-04-annoHello:war exploded" />
+    </root>
+  </artifact>
+</component>
