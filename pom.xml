@@ -15,6 +15,7 @@
         <module>MVC-03-reHello</module>
         <module>MVC-04-annoHello</module>
         <module>MVC-04-annoHello</module>
+        <module>MVC-05-controller</module>
     </modules>
 
     <properties>

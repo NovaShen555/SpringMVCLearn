@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="MVC-05-controller" />
         <module name="MVC-04-annoHello" />
         <module name="MVC-03-reHello" />
         <module name="MVC-01-servlet" />

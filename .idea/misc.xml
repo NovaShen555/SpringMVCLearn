@@ -5,6 +5,8 @@
     <file type="web" url="file://$PROJECT_DIR$/MVC-01-servlet" />
     <file type="web" url="file://$PROJECT_DIR$/MVC-02-helloMVC" />
     <file type="web" url="file://$PROJECT_DIR$/MVC-03-reHello" />
+    <file type="web" url="file://$PROJECT_DIR$/MVC-04-annoHello" />
+    <file type="web" url="file://$PROJECT_DIR$/MVC-05-controller" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

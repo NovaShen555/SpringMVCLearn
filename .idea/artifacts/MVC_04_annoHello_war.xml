@@ -1,7 +1,13 @@
 <component name="ArtifactManager">
   <artifact type="war" name="MVC-04-annoHello:war">
-    <output-path>$PROJECT_DIR$/out/artifacts/MVC_04_annoHello_war</output-path>
-    <root id="archive" name="MVC-04-annoHello_war.war">
+    <output-path>$PROJECT_DIR$/MVC-04-annoHello/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MVC-04-annoHello</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MVC-04-annoHello.war">
       <element id="artifact" artifact-name="MVC-04-annoHello:war exploded" />
     </root>
   </artifact>
