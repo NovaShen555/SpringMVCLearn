@@ -7,6 +7,7 @@
     <file type="web" url="file://$PROJECT_DIR$/MVC-03-reHello" />
     <file type="web" url="file://$PROJECT_DIR$/MVC-04-annoHello" />
     <file type="web" url="file://$PROJECT_DIR$/MVC-05-controller" />
+    <file type="web" url="file://$PROJECT_DIR$/MVC-06-json" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
