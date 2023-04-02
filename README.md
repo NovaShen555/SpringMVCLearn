@@ -9,3 +9,5 @@ SpringMVCLearn
 学习实体类的参数传递 数据处理
 ### 4.1
 学习乱码处理及jackson的使用
+### 4.2
+学习jackson fastjson的使用
